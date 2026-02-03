@@ -165,8 +165,8 @@ Q10: How do Security Groups / NSG work?
 - They are stateful → return traffic automatically allowed  
 - Control inbound/outbound rules per VM/subnet
 
-===============================
 End of Networking Q&A Cheat Sheet
 ===============================
+
 
 
