@@ -42,6 +42,16 @@ $reversed = -join ($str.ToCharArray() | ForEach-Object {$_})[::1] | ForEach-Obje
 $reversed = -join [array]::Reverse($str.ToCharArray())  # alternate
 Write-Output "Reversed string: $reversed"
 
+$str = "Hello World"
+# Access characters using a range operator from last index to first
+$reversedArray = $str[-1..-($str.Length)]
+# Join the characters back into a single string
+$reversedStr = -join $reversedArray
+
+Write-Output $reversedStr
+# Output: dlroW olleH
+
+
 # ============================================================
 # 5. Sum of Array Elements
 # ============================================================
