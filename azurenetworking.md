@@ -1,5 +1,3 @@
-# Azure Networking Interview Questions and Answers (60)
-
 ## 1. What is an Azure Virtual Network (VNet)?
 
 A Virtual Network (VNet) is a logically isolated network in Azure that
