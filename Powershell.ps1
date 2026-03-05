@@ -1,6 +1,3 @@
-# Reference Link interview : https://nrdas.blogspot.com/2025/05/50-powershell-interview-questions-and.html?utm_source=chatgpt.com
-
-
 # ============================================================
 # 1. What is PowerShell and how is it different from CMD?
 # ============================================================
